@@ -38,4 +38,3 @@ This is the main project for the EVEONION.NEWS/EVEONIONNEWS.com website
 
 
 
-[![Stories in Ready](https://badge.waffle.io/EVEION/alternativefacts.png?label=ready&title=Ready)](http://waffle.io/EVEION/alternativefacts)
